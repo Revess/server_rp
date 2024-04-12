@@ -1,0 +1,52 @@
+{
+    "name": "nova_cherry_village:village/cherry/roads_stuff",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 9,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/roads_stuff/road_center",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 8,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/roads_stuff/road_cross1",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 8,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/roads_stuff/road_cross2",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/roads_stuff/simple_fountain",
+                "projection": "rigid",
+                "processors": "nova_cherry_village:mossifier" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/roads_stuff/simple_fountain2",
+                "projection": "rigid",
+                "processors": "nova_cherry_village:mossifier" 
+            } 
+        }
+    ]
+}

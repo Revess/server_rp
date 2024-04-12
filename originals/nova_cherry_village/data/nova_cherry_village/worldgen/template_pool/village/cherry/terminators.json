@@ -1,0 +1,61 @@
+{
+    "name": "nova_cherry_village:village/cherry/terminators",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_01",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_02",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_03",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_04",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_05",
+                "projection": "rigid",
+                "processors": "nova_cherry_village:mossifier" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "nova_cherry_village:village/cherry/terminators/terminator_06",
+                "projection": "rigid",
+                "processors": "nova_cherry_village:mossifier" 
+            } 
+        }
+    ]
+}
