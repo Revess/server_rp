@@ -1,0 +1,150 @@
+{
+    "ctov": {
+        "house":    [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "bakery":   [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "farm":     [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "forager":  [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "library":  [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "smith":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ]
+    },
+    "friendsandfoes": {
+        "illusioner_shack": [
+            ["clutter:copper_coin", 2, 0, 16],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ],
+        "iceologer_cabin":   [
+            ["clutter:copper_coin", 2, 0, 16],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ]
+    },
+    "minecraft": {
+        "armorer":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "butcher":    [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "cartographer":    [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "house":    [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "fisher":    [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "mason":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "shepherd":    [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "tannery":    [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "temple":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 1, 0, 1]
+        ],
+        "toolsmith":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "weaponsmith":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ]
+    },
+    "nova_cherry_village": {
+        "house":        [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "fisher":       [
+            ["clutter:copper_coin", 1, 0, 8]
+        ],
+        "cartographer": [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "fletcher":     [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "mason":        [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "sheperd":      [
+            ["clutter:copper_coin", 1, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 1]
+        ],
+        "temple":       [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 0.5, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "toolsmith":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ],
+        "weaponsmith":  [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.25, 0, 1]
+        ]
+    },
+    "villagersplus": {
+        "alchemist":        [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ],
+        "horticulturist":   [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ],
+        "occultist":        [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ],
+        "oceanographer":    [
+            ["clutter:copper_coin", 2, 0, 8],
+            ["clutter:common_coin_pouch", 1, 0, 2],
+            ["clutter:uncommon_coin_pouch", 0.5, 0, 1]
+        ]
+    }
+}
